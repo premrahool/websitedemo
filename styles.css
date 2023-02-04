@@ -1,0 +1,50 @@
+
+.main-part1{
+    color: black;
+    letter-spacing: 4px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main-part{
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.head-jum{
+    padding-bottom: 2.5rem;
+}
+.text_color{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    letter-spacing: 4px;
+    opacity: 0.75;
+}
+
+.img-bg{
+    margin-top: 64px;
+}
+.heading{
+    text-align: center;
+    margin-top: 64px;
+    
+}
+.heading1{
+    text-align: center;
+    margin-top: 10px;
+
+}
+.para{
+    text-align: left;
+    margin-top: 34px;
+    
+}
+.heading2{
+    margin-top: 55px;
+}
+.img1{
+    margin-top: 55px;
+}
+.para2{
+    color: #607d8b;
+}
